@@ -1,5 +1,5 @@
 {
-  "name": "hapi1",
+  "name": "hapi-tinkering",
   "version": "0.0.0",
   "description": "exmaple hapi app, from https://medium.com/the-javascript-collection/d82777afaa4b",
   "main": "server.coffee",
