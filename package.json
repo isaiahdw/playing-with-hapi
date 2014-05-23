@@ -1,0 +1,25 @@
+{
+  "name": "hapi1",
+  "version": "0.0.0",
+  "description": "exmaple hapi app, from https://medium.com/the-javascript-collection/d82777afaa4b",
+  "main": "server.coffee",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "catbox-memory": "^1.0.2",
+    "chalk": "^0.4.0",
+    "coffee-script": "^1.7.1",
+    "glob": "^4.0.0",
+    "good": "^2.0.0",
+    "gulp": "^3.6.2",
+    "hapi": "^5.0.0",
+    "joi": "^4.3.0",
+    "lout": "^4.1.0",
+    "mocha": "^1.19.0",
+    "moment": "^2.6.0",
+    "requirefrom": "^0.2.0"
+  }
+}
